@@ -12,3 +12,5 @@ Technology used:
 Use:Gives the real time weather conditions.
 
 Its executible file can be made so that it can run other system which doesnot have such kind of environment
+
+Run wa2.py to use the app.
