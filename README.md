@@ -14,3 +14,11 @@ Use:Gives the real time weather conditions.
 Its executible file can be made so that it can run other system which doesnot have such kind of environment
 
 Run wa2.py to use the app.
+
+Screenshots of the Resulting GUI:
+Screenshot 1
+![WeatherApp Screeenshots](/screenshots/Screenshot1.png)
+Screenshot 2
+![WeatherApp Screeenshots](/screenshots/Screenshot2.png)
+Screenshot 3
+![WeatherApp Screeenshots](/screenshots/Screenshot3.png)
