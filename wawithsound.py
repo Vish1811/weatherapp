@@ -28,7 +28,7 @@ def format_response(weather):
 		temp = weather['main']['temp']
 
 		final_str = 'City: %s \nConditions: %s \nTemperature (°F): %s' % (name, desc, temp)
-		speak("Saki saki re saki saki rah na jaye koi khuyash baki")
+		#speak("Saki saki re saki saki rah na jaye koi khuyash baki")
 		speak("It's all "+desc+"in the sky" )
 		speak("Tapman degree fahrenheit mai")
 		speak(temp)
